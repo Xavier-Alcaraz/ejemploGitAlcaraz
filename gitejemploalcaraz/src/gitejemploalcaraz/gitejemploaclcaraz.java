@@ -1,6 +1,6 @@
 /*
 //19/02/2021
-//proyecto practica alcaraz
+//proyecto practica alcaraz barreu
  */
 package gitejemploalcaraz;
 
@@ -8,7 +8,7 @@ package gitejemploalcaraz;
  *
  * @author Xavier
  */
-public class Gitejemploaclcaraz  {
+public class gitejemploaclcaraz    {
 
     /**
      * @param args the command line arguments
