@@ -1,6 +1,6 @@
 /*
 //19/02/2021
-//proyecto practica alcaraz barreu
+//proyecto practica xavier alcaraz barreu
  */
 package gitejemploalcaraz;
 
